@@ -1,0 +1,1 @@
+web: gunicorn vidid_new.wsgi --log-file -
